@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NIC Details</string>
+    <string name="heading1">Insert Your NIC</string>
+    <string name="ok">SUBMIT</string>
+   <string name="bd">Birth Day : </string>
+    <string name="age">Age : </string>
+    <string name="Gender">Gender : </string>
+</resources>
